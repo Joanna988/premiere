@@ -1,2 +1,2 @@
 # premiere
-Fisrt repo test. Not a hello world again
+First repo test. Not a hello world again
